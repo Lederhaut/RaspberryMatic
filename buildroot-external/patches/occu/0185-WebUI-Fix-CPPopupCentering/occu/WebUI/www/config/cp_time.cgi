@@ -317,6 +317,7 @@ set LOCATIONS {
   {- "Leipzig" "51.34" "12.37"}
   {- "Magdeburg" "52.13" "11.62"}
   {- "Mainz" "50.00" "8.27"}
+  {- "Mannheim" "49.48" "8.47"}
   {- "Munich" "48.14" "11.58"}
   {- "Nuremberg" "49.46" "11.08"}
   {- "Oberhausen" "51.47" "6.85"}

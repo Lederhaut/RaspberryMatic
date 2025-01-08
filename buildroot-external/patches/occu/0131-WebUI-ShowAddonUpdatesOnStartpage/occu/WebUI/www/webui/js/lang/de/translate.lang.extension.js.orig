@@ -157,6 +157,7 @@ jQuery.extend(true,langJSON, {
     "Leipzig" : "Leipzig",
     "Magdeburg" : "Magdeburg",
     "Mainz" : "Mainz",
+    "Mannheim" : "Mannheim",
     "Munich" : "M%FCnchen",
     "Nuremberg" : "N%FCrnberg",
     "Oberhausen" : "Oberhausen",
